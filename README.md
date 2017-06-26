@@ -1,2 +1,1 @@
-# study
-pandatarou's study's repository :)
+# pandatarou's practice repository :)
